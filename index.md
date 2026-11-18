@@ -1,5 +1,6 @@
 ---
 title: Welcome to my blog!
+---
 # Welcome to My Website 👋
 
 Hi! I'm Turki, a Programming student.
@@ -18,4 +19,3 @@ I enjoy developing mobile applications and learning new technologies.
 - Rossoneri - Football Application
 
 Thanks for visiting my website!
----
